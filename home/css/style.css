@@ -1,0 +1,22 @@
+@import url('http://fonts.cdnfonts.com/css/intro');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+body{
+    font-family: 'Roboto Slab', serif;
+    color: black;
+    
+}
+h2,h1,h3,h4,h5,h6{
+    font-family: 'Intro Demo', sans-serif;
+    font-size: large;
+}
+.label-title{
+    font-family: 'Intro Demo', sans-serif;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    
+}
+.button-style{ 
+    font-family: 'Intro Demo', sans-serif;
+    font-size: small;
+    color: rgb(255, 255, 255);
+}
