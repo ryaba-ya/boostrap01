@@ -4,6 +4,7 @@ body{
     font-family: 'Roboto Slab', serif;
     color: black;
     
+    
 }
 h2,h1,h3,h4,h5,h6{
     font-family: 'Intro Demo', sans-serif;
@@ -19,4 +20,6 @@ h2,h1,h3,h4,h5,h6{
     font-family: 'Intro Demo', sans-serif;
     font-size: small;
     color: rgb(255, 255, 255);
+}
+
 }
